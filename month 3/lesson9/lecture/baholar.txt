@@ -1,0 +1,3 @@
+Ism: Ali, Familiya: Valiyev, Baholar: 85, 90, 80, 
+Ism: Sami, Familiya: Karimov, Baholar: 75, 85, 90, 
+Ism: Vali, Familiya: Sodiqov, Baholar: 95, 85, 90, 

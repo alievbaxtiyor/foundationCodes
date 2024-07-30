@@ -1,0 +1,1 @@
+print(hour, "soat", minute, "minut", seconds, "sekund")

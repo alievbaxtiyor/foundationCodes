@@ -1,0 +1,4 @@
+ISMI:                Baxtiyorjon
+FAMILIYASI:          Aliyev
+YOSHI:               20
+MILLATI:             

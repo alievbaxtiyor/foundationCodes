@@ -1,0 +1,4 @@
+Ali 500
+Vali 600
+Salim 450
+Murod 700

@@ -1,0 +1,3 @@
+Marka: Chevrolet, Model: Nexia, Narx: 8000
+Marka: Toyota, Model: Camry, Narx: 25000
+Marka: BMW, Model: X5, Narx: 50000

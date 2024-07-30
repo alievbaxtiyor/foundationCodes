@@ -1,0 +1,3 @@
+Ism: Ali, Familiya: Valiyev, Lavozim: Dasturchi, Oylik: 1500000
+Ism: Sami, Familiya: Karimov, Lavozim: Dizayner, Oylik: 1200000
+Ism: Vali, Familiya: Sodiqov, Lavozim: Menejer, Oylik: 1300000
