@@ -1,6 +1,0 @@
-import os
-os.system("cls")
-
-word = str(input("So'zni kiriting: "))
-natija=word[0].upper() + word[1:-1] + word[-1].upper()
-print(natija)
