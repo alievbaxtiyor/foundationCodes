@@ -1,0 +1,2 @@
+
+    maximumNumber = lst[0]
